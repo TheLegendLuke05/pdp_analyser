@@ -2,7 +2,7 @@
 
 Interactive tools for analysing potentiodynamic polarisation (PDP) data.  
 This package provides functions for plotting and interactively extracting electrochemical parameters such as passive current density, passivation potential, pitting potential, and repassivation potential.
-"analysis.py" provides an example script for: calling the excel file containing data, defining sample surface area, producing an overall plot and interactively determining electrochemical parameters
+"analysis.py" provides an example script for: calling the excel file containing data, defining sample surface area, producing an overall plot and interactively determining electrochemical parameters (Find an example of how to use this file here: https://youtu.be/mVuW6k8sEVs)
 
 ---
 
